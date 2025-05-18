@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 f2 in remote repo
+=======
+file2 
+local repo
+>>>>>>> 9393d4e (commit1)
